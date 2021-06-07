@@ -2,6 +2,12 @@
     "properties": {
         "_id": {
             "bsonType": "objectId"
+        },
+        "test": {
+          "bsonType": "string"
+        },
+        "name": {
+            "bsonType": "string"
         }
     },
     "title": "one"
